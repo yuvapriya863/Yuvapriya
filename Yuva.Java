@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>JAYAKUMAR Portfolio</title>
+  <title>YUVAPRIYA Portfolio</title>
   <style>
     * {
       margin: 0;
@@ -198,12 +198,12 @@
 <body>
 <header style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 2rem">
   <button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
-  <img src="./jayakumar.jpg.jpg" alt="Profile Picture" class="profile-picture" id="profileImage" style="margin: 0 1rem 0 0; align-self: flex-start;">
+  <img src="./yuvapriya.jpg.jpg" alt="Profile Picture" class="profile-picture" id="profileImage" style="margin: 0 1rem 0 0; align-self: flex-start;">
   <div style="text-align: left;">
-    <h1>K. JAYAKUMAR MCA., M.Phil</h1>
+    <h1>K. YUVAPRIYA BCA., </h1>
     
   </div>
-  <p>Assistant Professor | Deprtment Of Computer Science</p>
+  <p>Student | Deprtment Of Computer Science</p>
   <input type="file" id="fileInput" accept="image/*" style="display:none">
   <button onclick="showModal()">Change Profile</button>
 </header>
@@ -221,14 +221,12 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>Assistant Professor</b> University Of Madras with over 3 years of experience. I help organizations build secure systems and educate others about online safety. I’m passionate about ethical hacking, digital forensics, and emerging technologies.</p>
+  <p>I'm a <b>Student</b>bca student of dhanalakshmi srinivasan arts and science college-mamallapuram,under- University Of Madras.</p>
 </section>
 
 <section id="education">
   <h2>Education</h2>
   <p>Madras University – BCA</p>
-  <p>Madras University – MCA</p>
-  <p>Madras University – M.Phil</p>
 </section>
 
 <section id="skills">
@@ -238,13 +236,8 @@
     <li>IBM Fundamentals Of Cloud Computing</li>
     <li>Cloud Computing</li>
     <li>HTML</li>
-    <li>WEB</li>
-    <li>CRYPTOGRAPHY</li>
-    <li>Java</li>
-    <li>Blockchain</li>
-    <li>C++</li>
-    <li>JavaScript</li>
-  </ul>
+  
+   </ul>
 </section>
 
 <section id="projects">
@@ -264,50 +257,19 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: <a href="jaikande1997@gmail.com">jaikande1997@gmail.com</a></p>
-  <p>Phone: +91-9025276368</p>
-  <p>Location: Chennai, India</p>
-  <div style="margin-top: 1rem;">
-    <a href="https://linkedin.com/in/vignesh" target="_blank">LinkedIn</a> |
-    <a href="https://github.com/vignesh" target="_blank">GitHub</a> |
-    <a href="https://twitter.com/vignesh" target="_blank">Twitter</a> |
-    <a href="https://instagram.com/vignesh" target="_blank">Instagram</a>
-  </div>
+  <p>Email: <a href="yuvapriya863@gmail.com>"yuvapriya863.gmail.com</a></p>
+  <p>Phone: +91-7845362495</p>
+  <p>Location: mamallapuram, India</p>
 </section>
-
-<section id="certificates">
-  <h2>Certificates</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="text-align: center;">
-      <a href="https://skills.yourlearning.ibm.com/certificate/share/50a819ec11ewogICJsZWFybmVyQ05VTSIgOiAiNDg0NjQ4N1JFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9fe864627d8-10" target="_blank">
-        <img src="./jayakumar ibm.jpg.png" alt="MS-356" style="max-width: 200px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p>Cybersecurity Essentials – Cisco</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://skills.yourlearning.ibm.com/certificate/share/61912f84e2ewogICJvYmplY3RJZCIgOiAiUExBTi0yRUMzQTMwNUYyQzMiLAogICJsZWFybmVyQ05VTSIgOiAiNDg0NjQ4N1JFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9fc1b14805a-10/certificate2" target="_blank">
-        <img src="./cloud computing certificate.jpg.png" alt="Blockchain Fundamentals – IBM" style="max-width: 200px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p>Blockchain Fundamentals – IBM</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://skills.yourlearning.ibm.com/certificate/share/3c315e1c43ewogICJvYmplY3RJZCIgOiAiTURMLTMwMSIsCiAgImxlYXJuZXJDTlVNIiA6ICI0ODQ2NDg3UkVHIiwKICAib2JqZWN0VHlwZSIgOiAiQUNUSVZJVFkiCn0069fbf4a77-10/certificate3" target="_blank">
-        <img src="./cloud computing.jpg.png" alt="Machine Learning with Python – Coursera" style="max-width: 200px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p>Machine Learning with Python – Coursera</p>
-    </div>
-  </div>
-</section>
-
 <section id="experience">
   <h2>Experience</h2>
   <ul>
-    <li><b>UNIVERSITY OF MADRAS IN 3YEARS OF EXPERIENCE</b> </li>
+    <li><b>NO EXPERIENCE</b> </li>
   </ul>
 </section>
 
 <footer>
-  <p>&copy; 2025 JAYAKUMAR . All rights reserved.</p>
+  <p>&copy; 2025 YUVAPRIYA. All rights reserved.</p>
 </footer>
 
 <div class="modal" id="passwordModal">
